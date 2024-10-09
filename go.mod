@@ -1,6 +1,6 @@
 module github.com/sourav-k7/short-path-game-backend.git
 
-go 1.23.2
+go 1.23.0
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
